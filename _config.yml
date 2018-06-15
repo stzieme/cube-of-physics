@@ -2,7 +2,7 @@
 title: Würfel der Physik
 email: ckassung@googlemail.com
 description: Der Theorieraum der Physik als Würfelmodell.
-baseurl: "/spectral-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/cube-of-physics" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Homepage tiles
