@@ -1,0 +1,28 @@
+# Site settings
+title: Würfel der Physik
+email: ckassung@googlemail.com
+description: Der Theorieraum der Physik als Würfelmodell.
+baseurl: "/spectral-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 3
+
+# Misc settings
+featured-image-source:
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url: https://plus.google.com/u/0/collection/0txENF
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Build settings
+markdown: kramdown
