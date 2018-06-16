@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: Generic
 description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 ---

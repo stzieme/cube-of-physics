@@ -1,14 +1,10 @@
 ---
 layout: page
 title: Die Galileische Welt
-description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+description: <i>c</i><sup>-1</sup>=0
 ---
 
 <section>
-  <header>
-		<h4>Die Galileische Welt</h4>
-		<p>c<sup>-1</sup>=0</p>
-	</header>
 
 	<p>Ist die Lichtgeschwindigkeit c endlich oder unendlich, also c—1=0? Bis in die frühe Neuzeit beschäftigte diese Frage die Menschen.</p>
 

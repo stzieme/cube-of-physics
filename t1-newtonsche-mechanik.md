@@ -1,63 +1,10 @@
-<!DOCTYPE HTML>
-<!--
-	Spectral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-<head>
-	<title>Würfel der Physik</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<!--[if lte IE 8]><script src="/spectral-jekyll-theme/assets/js/ie/html5shiv.js"></script><![endif]-->
-	<link rel="stylesheet" href="/spectral-jekyll-theme/assets/css/main.css" />
-	<!--[if lte IE 8]><link rel="stylesheet" href="/spectral-jekyll-theme/assets/css/ie8.css" /><![endif]-->
-	<!--[if lte IE 9]><link rel="stylesheet" href="/spectral-jekyll-theme/assets/css/ie9.css" /><![endif]-->
-</head>
+---
+layout: page
+title: Newtonsche Mechanik
+description: <i>G</i>=0&emsp;<i>c</i><sup>-1</sup>=0&emsp;ℏ=0
+---
 
-
-<body>
-    <!-- Page Wrapper -->
-<div id="page-wrapper">
-
-	<!-- Header -->
-	<header id="header" >
-		<h1><a href="http://localhost:4000/spectral-jekyll-theme/">Würfel der Physik</a></h1>
-		<nav id="nav">
-			<ul>
-				<li class="special">
-					<a href="#menu" class="menuToggle"><span>Menu</span></a>
-					<div id="menu">
-						<ul>
-							       
-							<li><a href="http://localhost:4000/spectral-jekyll-theme/">Home</a></li>
-							     
-							<li><a href="http://localhost:4000/spectral-jekyll-theme/elements.html">Elements</a></li>
-							  
-							<li><a href="http://localhost:4000/spectral-jekyll-theme/galileische-welt.html">Die Galileische Welt</a></li>
-							  
-							<li><a href="http://localhost:4000/spectral-jekyll-theme/generic.html">Generic</a></li>
-							    
-							<li><a href="http://localhost:4000/spectral-jekyll-theme/newtonsche-mechanik.html">Newtonsche Mechanik</a></li>
-							 
-						</ul>
-					</div>
-				</li>
-			</ul>
-		</nav>
-	</header>
-
-
-    <!-- Main -->
-    <article id="main">
-        <header>
-            <h2>Newtonsche Mechanik</h2>
-            <p>Aliquam ut ex ut interdum donec amet imperdiet eleifend</p>
-        </header>
-        <section class="wrapper style5">
-            <div class="inner">
-
-                <section>
+<section>
 
 	<p>Stellen wir uns ein Universum vor, in dem die Schwerkraft vernachlässigt werden kann, in dem sich die Dinge gegenüber der Lichtgeschwindigkeit sehr langsam bewegen und in der Auswirkungen der Quantenphänomene zu klein sind, um wahrgenommen werden zu können. Ein solches Universum wäre vollständig durch die Gesetze der Galileischen Raum-Zeit und der Newtonschen Mechanik beschreibbar. Im Modell des Würfels ist dies eine Theorie, in der die Gravitationskonstante, die inverse Lichtgeschwindigkeit und das Plancksche Wirkungsquantum gleich Null gesetzt werden. Tatsächlich ist uns die Physik dieses Universums sehr   vertraut. Alle Objekte haben hier eine bestimmte Position in einem absoluten Raum. Die Zeit ist ein Parameter, der überall gleichförmig und unentwegt das Verrinnen von Sekunden, Minuten und Stunden zählt. Jede Bewegung entspricht einer festen Bahn, deren Verlauf berechenbar ist. Überaus merkwürdig aber ist, dass diese Theorie der Realität nicht entspricht, sondern lediglich eine Näherung darstellt.</p>
 
@@ -74,48 +21,3 @@
 	<p>Noch drastischere Korrekturen erfährt die klassische Mechanik auf atomaren und subatomaren Längenskalen. Sie verliert ihren deterministischen Charakter und wird im Rahmen der Quantenmechanik, der Theorie (0, 0, ℏ), statistisch reformuliert. Sämtliche Korrekturen der klassischen Mechanik verweisen also auf neue Ecken des Würfels. Die beiden Theorien (0, 0, 0), die Newtonsche Mechanik, und (G, 0, 0), die Newtonsche Gravitationstheorie, wurden von Newton zeitgleich entwickelt; hier widerspricht also die Systematik des Würfels in gewisser Weise der Geschichte der Physik. Newton befindet sich demnach auf zwei Ecken des Würfels, hat aber diese Unterscheidung selbst nie gemacht. Die Korrekturen (0, c—1, 0) und (0, 0, ℏ) dagegen erfolgten bekanntermaßen erst Anfang des 20. Jahrhunderts mit der Entwicklung der modernen Physik, so dass der Würfel hier die wissenshistorische Entwicklung widerspiegelt.</p>
 
 </section>
-
-
-            </div>
-        </section>
-    </article>
-
-    <!-- Footer -->
-<footer id="footer">
-	<ul class="icons">
-		
-		<li><a href="https://twitter.com/andrewbanchich" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-		 
-		<li><a href="https://plus.google.com/u/0/+AndrewBanchich" class="icon fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
-		     
-		<li><a href="https://gitlab.com/u/andrewbanchich" class="icon fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
-		   
-		<li><a href="https://www.linkedin.com/in/andrew-banchich-a4ba1195" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-		
-	</ul>
-	<ul class="copyright">
-		<li>&copy; Würfel der Physik</li>
-		<li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a>.</li>
-		<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a>.</li>
-	</ul>
-</footer>
-
-</div>
-
-<!-- Scripts -->
-<script src="http://localhost:4000/spectral-jekyll-theme/assets/js/jquery.min.js"></script>
-<script src="http://localhost:4000/spectral-jekyll-theme/assets/js/jquery.scrollex.min.js"></script>
-<script src="http://localhost:4000/spectral-jekyll-theme/assets/js/jquery.scrolly.min.js"></script>
-<script src="http://localhost:4000/spectral-jekyll-theme/assets/js/skel.min.js"></script>
-<script src="http://localhost:4000/spectral-jekyll-theme/assets/js/util.js"></script>
-<!--[if lte IE 8]><script src="http://localhost:4000/spectral-jekyll-theme/assets/js/ie/respond.min.js"></script><![endif]-->
-<script src="http://localhost:4000/spectral-jekyll-theme/assets/js/main.js"></script>
-
-</body>
-
-</html>
-
-
-</body>
-
-</html>
