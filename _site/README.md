@@ -1,11 +1,32 @@
-# Teständerung
-# Spectral - Jekyll Theme
+# Cube of Physics, based on Spectral - Jekyll Theme
 
 A Jekyll version of the "Spectral" theme by [HTML5 UP](https://html5up.net/).
 
 ![Spectral Theme](screenshot.jpg "Spectral Theme")
 
-# How to Use
+# How to Work with Git
+
+First, checkout a copy of the website from the repository
+
+git clone https://github.com/kasumac/cube-of-physics
+
+Every change needs to be communicated into Git's index via
+
+`git add <filename>` or
+`git add *`
+
+In Atom, you'll find all changes in "Unstaged Changes" resp. in "Staged Changes" after adding them. The second step is to commit these changes by transfering them with an according messaged into Git's head
+
+`git commit -m "Message"``
+
+Again, this can be done also in Atom by clicking "Commit to master". All changes are still local. To send them into the remote repository GitHub by
+
+`git push origin master`
+
+Now, you'll see all changes at [https://github.com/kasumac/cube-of-physics](https://github.com/kasumac/cube-of-physics) and, of course, live at [https://kasumac.github.io/cube-of-physics](https://kasumac.github.io/cube-of-physics).
+
+
+# How to Use Jekyll
 
 For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
 or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
@@ -13,6 +34,8 @@ and [creating pages](https://jekyllrb.com/docs/pages/).
 
 - **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
 - **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
+
+bundle exec jekyll serve
 
 # Added Features
 
