@@ -8,7 +8,7 @@ A Jekyll version of the "Spectral" theme by [HTML5 UP](https://html5up.net/).
 
 First, checkout a copy of the website from the repository
 
-git clone https://github.com/kasumac/cube-of-physics
+`git clone https://github.com/kasumac/cube-of-physics`
 
 Every change needs to be communicated into Git's index via
 
@@ -17,7 +17,7 @@ Every change needs to be communicated into Git's index via
 
 In Atom, you'll find all changes in "Unstaged Changes" resp. in "Staged Changes" after adding them. The second step is to commit these changes by transfering them with an according messaged into Git's head
 
-`git commit -m "Message"``
+`git commit -m "Message"`
 
 Again, this can be done also in Atom by clicking "Commit to master". All changes are still local. To send them into the remote repository GitHub by
 

@@ -1,0 +1,23 @@
+/*
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Icon */
+
+.col-lg {
+	position:relative;
+	float:left;
+	hyphens:auto;
+	text-align:justify;
+	min-height:1px;
+	padding-left:15px;
+	padding-right:15px;
+	width:41.66666667%;
+}
+
+.col-lg-offset {
+/*	margin-left:16.66666667%; */
+  margin-left:9%;
+}
